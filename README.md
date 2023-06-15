@@ -22,6 +22,9 @@ There're a bunch of example spine files in this repo, you could just simply down
 # Download All Character Files
 wip
 
+# Full Documentation
+wip
+
 # TODO
 - [x] Creating the repo
 - [x] Adding some example spine files into this repo
