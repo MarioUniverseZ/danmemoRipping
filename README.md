@@ -19,11 +19,12 @@ There're a bunch of example spine files in this repo, you could just simply down
 - 【再戦約定】アステリオス
 - 【神威解放】夜刀神 十香
 
-# Download All Character Files
-wip
+# Download All Character Files(WIP)
 
-# Full Documentation
-wip
+# Full Documentation(WIP)
+## Finding the storage(BlueStacks 5 Exclusive, Chinese only)
+- [Find .vhdx](https://gist.github.com/MarioUniverseZ/0d0c49efa1866471a60a1bb90ff44d32)
+- [Open .vhdx](https://gist.github.com/MarioUniverseZ/20a0749928a10cd671c85d775ea3d8a4)
 
 # TODO
 - [x] Creating the repo
