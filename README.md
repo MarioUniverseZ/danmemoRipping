@@ -22,9 +22,9 @@ There're a bunch of example spine files in this repo, you could just simply down
 # Download All Character Files(WIP)
 
 # Full Documentation(WIP)
-## Finding the storage(BlueStacks 5 Exclusive, Chinese only)
-- [Find .vhdx](https://gist.github.com/MarioUniverseZ/0d0c49efa1866471a60a1bb90ff44d32)
-- [Open .vhdx](https://gist.github.com/MarioUniverseZ/20a0749928a10cd671c85d775ea3d8a4)
+## Finding the storage(BlueStacks 5 Exclusive)
+- Find .vhdx ([中文](https://gist.github.com/MarioUniverseZ/0d0c49efa1866471a60a1bb90ff44d32) | English)
+- Open .vhdx ([中文](https://gist.github.com/MarioUniverseZ/20a0749928a10cd671c85d775ea3d8a4) | English)
 
 # TODO
 - [x] Creating the repo
