@@ -1,5 +1,5 @@
 # danmemoRipping
-a guide for ripping character images, voices and battle animation files from danmemo
+a guide for ripping character images, voices and battle animation files from danmemo(ダンメモ)
 
 There're a bunch of example spine files in this repo, you could just simply download this as .zip
 
