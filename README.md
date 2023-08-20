@@ -27,4 +27,4 @@ There're a bunch of example spine files in this repo, you could just simply down
 - [x] Creating the repo
 - [x] Adding some example spine files into this repo
 - [ ] Uploading all of the ripped files on somewhere else(after 6th anniversary is over)
-- [ ] Finishing all of the tutorial documentations
+- [x] Finishing all of the tutorial documentations
