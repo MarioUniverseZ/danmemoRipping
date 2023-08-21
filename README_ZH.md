@@ -5,7 +5,7 @@
 記憶憧憬檔案提取用教學<br>
 這個repo裡面有提供一些戰鬥動畫的spine範例檔案，如果無法自行提取可以先點綠色的`<> Code`後然後按`Download ZIP`。
 
-## 本repo使用到的角色spine檔案（示例圖）
+## 本repo提供的角色spine檔案（示例圖）
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181435463110696/hex.png "【覺醒之詩】蕾菲亞‧維里迪斯")
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181400075784234/hex_2.png "【翠星瞬煌】琉‧璃昂")
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181400327434250/hex_3.png "【星華】琉‧璃昂")
