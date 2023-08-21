@@ -1,4 +1,7 @@
 # danmemoRipping
+
+[中文 README](README_ZH.md)
+
 a guide for ripping character images, voices and battle animation files from danmemo(ダンメモ)
 
 There're a bunch of example spine files in this repository, you could just simply download this as .zip
@@ -19,12 +22,12 @@ There're a bunch of example spine files in this repository, you could just simpl
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181436016771132/hex_13.png "【Rematch Pact】Asterius")
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181436557824133/hex_14.png "【Divine Will Unleashed】Touka Yatogami")
 
-# Download All Character Files(WIP)
+# Download All Ripped Files Relevant to This Tutorial(WIP)
 
-# [Full Documentation(WIP)](https://github.com/MarioUniverseZ/danmemoRipping/wiki)
+# [Full Documentation](https://github.com/MarioUniverseZ/danmemoRipping/wiki)
 
 # TODO
 - [x] Creating the repo
 - [x] Adding some example spine files into this repo
-- [ ] Uploading all of the ripped files on somewhere else(after 6th anniversary is over)
+- [ ] Uploading all of the relevant ripped files on somewhere else(after 6th anniversary is over)
 - [x] Finishing all of the tutorial documentations
