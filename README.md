@@ -29,5 +29,5 @@ There're a bunch of example spine files in this repository, you could just simpl
 # TODO
 - [x] Creating the repo
 - [x] Adding some example spine files into this repo
-- [ ] Uploading all of the relevant ripped files on somewhere else(after 6th anniversary is over)
+- [ ] Uploading all of the relevant ripped files on somewhere else(after 6th anniversary is completely over or upon request)
 - [x] Finishing all of the tutorial documentations
