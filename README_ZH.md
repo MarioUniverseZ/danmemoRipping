@@ -21,12 +21,14 @@
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181436016771132/hex_13.png "【再戰約定】阿斯泰里奧斯")
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181436557824133/hex_14.png "【神威解放】夜刀神 十香")
 
-# 下載所有角色檔案(WIP)
+# [下載所有本教學相關檔案](https://terabox.com/s/1-RyMyrIYwlYoQSNhaBMMdg)
+
+提取碼: 2sfc
 
 # [教學文一覽](https://github.com/MarioUniverseZ/danmemoRipping/wiki)
 
 # TODO
 - [x] 創建本repo
 - [x] 添加範例檔案
-- [ ] 上傳所有適合提取的相關檔案（等六周年結束之後或是有很多人問）
+- [x] 上傳所有相關檔案
 - [x] 完成所有教學文章
