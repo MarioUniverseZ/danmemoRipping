@@ -31,5 +31,5 @@ password: 2sfc
 # TODO
 - [x] Creating the repo
 - [x] Adding some example spine files into this repo
-- [x] Uploading all of the relevant ripped files on somewhere else(after 6th anniversary is completely over or upon request)
+- [x] Uploading all of the relevant ripped files on a cloud storage
 - [x] Finishing all of the tutorial documentations
