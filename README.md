@@ -22,12 +22,14 @@ There're a bunch of example spine files in this repository, you could just simpl
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181436016771132/hex_13.png "【Rematch Pact】Asterius")
 ![](https://media.discordapp.net/attachments/1106922465533366343/1120181436557824133/hex_14.png "【Divine Will Unleashed】Touka Yatogami")
 
-# Download All Ripped Files Relevant to This Tutorial(WIP)
+# [Download All Ripped Files Relevant to This Tutorial](https://terabox.com/s/1-RyMyrIYwlYoQSNhaBMMdg)
+
+password: 2sfc
 
 # [Full Documentation](https://github.com/MarioUniverseZ/danmemoRipping/wiki)
 
 # TODO
 - [x] Creating the repo
 - [x] Adding some example spine files into this repo
-- [ ] Uploading all of the relevant ripped files on somewhere else(after 6th anniversary is completely over or upon request)
+- [x] Uploading all of the relevant ripped files on somewhere else(after 6th anniversary is completely over or upon request)
 - [x] Finishing all of the tutorial documentations
