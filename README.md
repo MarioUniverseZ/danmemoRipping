@@ -22,9 +22,8 @@ There're a bunch of example spine files in this repository, you could just simpl
 ![](https://github.com/MarioUniverseZ/danmemoRipping/assets/118989308/7158433a-62f8-42db-a86e-4544405b5a84 "【Rematch Pact】Asterius")
 ![](https://github.com/MarioUniverseZ/danmemoRipping/assets/118989308/96b53130-dfba-4dbc-b7a5-d953ce34637c "【Divine Will Unleashed】Touka Yatogami")
 
-# [Download All Ripped Files Relevant to This Tutorial](https://terabox.com/s/1-RyMyrIYwlYoQSNhaBMMdg)
-
-password: 2sfc
+# [Download All Ripped Files Relevant to This Tutorial](https://terabox.com/s/1-RyMyrIYwlYoQSNhaBMMdg)(password: 2sfc)
+[mirror (torrent)](https://mega.nz/file/MFkGRD7Q#W2lxZa4xnaBo6bk-VxRgc22bC8POib-nczcwedKcj0E)
 
 # [Full Documentation](https://github.com/MarioUniverseZ/danmemoRipping/wiki)
 
