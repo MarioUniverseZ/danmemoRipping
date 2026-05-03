@@ -21,9 +21,8 @@
 ![](https://github.com/MarioUniverseZ/danmemoRipping/assets/118989308/7158433a-62f8-42db-a86e-4544405b5a84 "【再戰約定】阿斯泰里奧斯")
 ![](https://github.com/MarioUniverseZ/danmemoRipping/assets/118989308/96b53130-dfba-4dbc-b7a5-d953ce34637c "【神威解放】夜刀神 十香")
 
-# [下載所有本教學相關檔案](https://terabox.com/s/1-RyMyrIYwlYoQSNhaBMMdg)
-
-提取碼: 2sfc
+# [下載所有本教學相關檔案](https://terabox.com/s/1-RyMyrIYwlYoQSNhaBMMdg)(提取碼: 2sfc)
+[鏡像(種子檔)](https://mega.nz/file/MFkGRD7Q#W2lxZa4xnaBo6bk-VxRgc22bC8POib-nczcwedKcj0E)
 
 # [教學文一覽](https://github.com/MarioUniverseZ/danmemoRipping/wiki)
 
